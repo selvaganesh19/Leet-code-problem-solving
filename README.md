@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0812-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
