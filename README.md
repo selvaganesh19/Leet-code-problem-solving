@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0415-add-strings) |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0196-delete-duplicate-emails) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
