@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0507-perfect-number) |
 ## Simulation
 |  |
 | ------- |
