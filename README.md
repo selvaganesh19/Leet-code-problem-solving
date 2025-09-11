@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0136-single-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0088-merge-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0088-merge-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0414-third-maximum-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2887-sort-vowels-in-a-string) |
 ## String
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0205-isomorphic-strings](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -101,4 +105,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0036-valid-sudoku) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
