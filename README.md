@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0349-intersection-of-two-arrays](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0680-valid-palindrome-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0812-rotate-string) |
+| [1894-merge-strings-alternately](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1894-merge-strings-alternately) |
 | [2887-sort-vowels-in-a-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2887-sort-vowels-in-a-string) |
 ## String Matching
 |  |
