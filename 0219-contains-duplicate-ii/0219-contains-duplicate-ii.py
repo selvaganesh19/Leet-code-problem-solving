@@ -5,9 +5,13 @@ class Solution(object):
         :type k: int
         :rtype: bool
         """
-        st = {}
-        for i in range(len(nums)):
-            if nums[i] in st and abs(i-st[nums[i]]) <= k:
+        window=set()
+
+        for i,num in enumerate(nums):
+            if num in window:
                 return True
-            st[nums[i]] = i
+            window.add(num)
+            if len(window)>k:
+                window.remove(nums[i-k])
+
         return False
