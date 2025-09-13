@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0036-valid-sudoku) |
 | [0088-merge-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0136-single-number) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0043-multiply-strings) |
 | [0205-isomorphic-strings](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0242-valid-anagram) |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
