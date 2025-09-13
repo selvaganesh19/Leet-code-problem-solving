@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0043-multiply-strings) |
 | [0205-isomorphic-strings](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0344-reverse-string) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0043-multiply-strings) |
 | [0231-power-of-two](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0412-fizz-buzz) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0415-add-strings) |
