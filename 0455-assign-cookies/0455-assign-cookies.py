@@ -9,9 +9,7 @@ class Solution(object):
         s.sort()
         g.sort()
 
-        i=0
-        j=0
-        c=0
+        i,j,c=0,0,0
 
         while i<len(g) and j<len(s):
             if s[j] >= g[i]:
