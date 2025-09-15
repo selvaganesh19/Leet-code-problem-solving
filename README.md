@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0414-third-maximum-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0349-intersection-of-two-arrays](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [2887-sort-vowels-in-a-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2887-sort-vowels-in-a-string) |
 ## String
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0412-fizz-buzz](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
