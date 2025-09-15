@@ -4,10 +4,19 @@ class Solution(object):
         :type strs: List[str]
         :rtype: str
         """
-        first = strs[0]
+        strs = sorted(strs)
 
-        for i in strs:
-            while not i.startswith(first):
-                first = first[:-1]
+        res=""
+
+        first = strs[0]
+        last = strs[-1]
+
+        for i in range(min(len(first), len(last))):
+            if first[i] != last[i]:
+                return res
+            else:
+                res = res+first[i]
+
+        
+        return res
             
-        return first
