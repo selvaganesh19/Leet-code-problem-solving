@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0628-maximum-product-of-three-numbers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0837-most-common-word](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0837-most-common-word) |
 | [1019-squares-of-a-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1019-squares-of-a-sorted-array) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1848-sum-of-unique-elements) |
 ## Two Pointers
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0742-to-lower-case](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0837-most-common-word) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1894-merge-strings-alternately) |
 | [2887-sort-vowels-in-a-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2887-sort-vowels-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
