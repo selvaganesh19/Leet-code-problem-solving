@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0455-assign-cookies](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [1019-squares-of-a-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0455-assign-cookies](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0680-valid-palindrome-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0414-third-maximum-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [1019-squares-of-a-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1019-squares-of-a-sorted-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2887-sort-vowels-in-a-string) |
 ## String
 |  |
