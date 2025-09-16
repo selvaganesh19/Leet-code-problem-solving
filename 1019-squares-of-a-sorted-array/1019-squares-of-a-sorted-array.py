@@ -5,9 +5,7 @@ class Solution(object):
         :rtype: List[int]
         """
 
-        for i in range(0,len(nums)):
-            nums[i] = pow(nums[i],2)
+        for i in range(len(nums)):
+            nums[i]=nums[i]*nums[i]
         
-        nums.sort()
-
-        return nums
+        return sorted(nums)
