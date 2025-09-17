@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0088-merge-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0541-reverse-string-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0205-isomorphic-strings](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0415-add-strings) |
