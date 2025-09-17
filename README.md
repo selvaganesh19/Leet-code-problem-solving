@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0268-missing-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0605-can-place-flowers) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0344-reverse-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0680-valid-palindrome-ii) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0242-valid-anagram](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0242-valid-anagram](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0409-longest-palindrome) |
 | [0837-most-common-word](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0837-most-common-word) |
 | [1848-sum-of-unique-elements](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1848-sum-of-unique-elements) |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0268-missing-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Counting
 |  |
 | ------- |
