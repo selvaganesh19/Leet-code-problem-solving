@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0088-merge-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0228-summary-ranges) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0043-multiply-strings](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0268-missing-number) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0258-add-digits) |
 ## Database
 |  |
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/3447-clear-digits) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
