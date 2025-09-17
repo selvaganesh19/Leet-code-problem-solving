@@ -5,18 +5,21 @@ class Solution(object):
         :rtype: str
         """
         s = list(s)
-        v = "aeiouAEIOU"
-        vow=[]
+        v = set("aeiouAEIOU")
+        
+        i , j=0,len(s)-1
 
-        for i in range(0,len(s)):
-            if s[i] in v:
-                vow.append(s[i])
-                s[i]= None
+        while i < j:
+            while i < j and s[i] not in v:
+                i+=1
+            
+            while i < j and s[j] not in v:
+                j-=1
+            
+            s[i],s[j] = s[j],s[i]
+            i+=1
+            j-=1
         
-        for i in range(len(s)):
-            if s[i] == None:
-                if vow:
-                    s[i] = vow.pop()
-        
+
         return "".join(s)
         
