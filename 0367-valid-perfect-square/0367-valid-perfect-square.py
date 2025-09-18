@@ -4,19 +4,19 @@ class Solution(object):
         :type num: int
         :rtype: bool
         """
+        low=0
 
-        l=0
-        h=num
+        high=num
 
-        while l<= h:
-            m = (l+h) //2
-            s = m * m
+        while low <= high:
+            mid = (low + high) //2
+            sq = mid*mid
 
-            if s == num:
+            if sq == num:
                 return True
-            elif s > num:
-                h = m -1
+            elif sq > num:
+                high = mid-1
             else:
-                l = m + 1
+                low = mid +1
         
         return False
