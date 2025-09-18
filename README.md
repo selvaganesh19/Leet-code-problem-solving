@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0350-intersection-of-two-arrays-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0837-most-common-word](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0837-most-common-word) |
