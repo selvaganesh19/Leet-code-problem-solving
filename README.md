@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0506-relative-ranks](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0645-set-mismatch) |
 | [0837-most-common-word](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0837-most-common-word) |
 | [1019-squares-of-a-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0455-assign-cookies](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1019-squares-of-a-sorted-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2887-sort-vowels-in-a-string) |
 ## String
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0268-missing-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0387-first-unique-character-in-a-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0409-longest-palindrome) |
+| [0645-set-mismatch](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0645-set-mismatch) |
 | [0837-most-common-word](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0837-most-common-word) |
 | [1848-sum-of-unique-elements](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1848-sum-of-unique-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
