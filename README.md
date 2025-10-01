@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0014-longest-common-prefix](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0344-reverse-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0190-reverse-bits) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0043-multiply-strings](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0258-add-digits) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0415-add-strings) |
