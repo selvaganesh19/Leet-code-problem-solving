@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0409-longest-palindrome](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0415-add-strings) |
+| [0520-detect-capital](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0742-to-lower-case) |
