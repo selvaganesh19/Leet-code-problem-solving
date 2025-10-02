@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0026-remove-duplicates-from-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0036-valid-sudoku) |
+| [0078-subsets](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0137-single-number-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0190-reverse-bits) |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
