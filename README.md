@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0349-intersection-of-two-arrays](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0374-guess-number-higher-or-lower) |
 ## Counting
 |  |
 | ------- |
@@ -267,4 +268,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0078-subsets](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0078-subsets) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
