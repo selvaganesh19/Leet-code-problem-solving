@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0837-most-common-word](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0837-most-common-word) |
 | [1018-largest-perimeter-triangle](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1019-squares-of-a-sorted-array) |
+| [1319-unique-number-of-occurrences](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1319-unique-number-of-occurrences) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1848-sum-of-unique-elements) |
 | [2881-split-strings-by-separator](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2881-split-strings-by-separator) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0409-longest-palindrome](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0409-longest-palindrome) |
 | [0645-set-mismatch](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0645-set-mismatch) |
 | [0837-most-common-word](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0837-most-common-word) |
+| [1319-unique-number-of-occurrences](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1319-unique-number-of-occurrences) |
 | [1848-sum-of-unique-elements](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1848-sum-of-unique-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
