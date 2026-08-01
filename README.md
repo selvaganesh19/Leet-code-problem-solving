@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0049-group-anagrams](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0169-majority-element) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0001-two-sum](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0217-contains-duplicate) |
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0238-product-of-array-except-self) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
