@@ -4,20 +4,32 @@ class Solution(object):
         :type board: List[List[str]]
         :rtype: bool
         """
-        seen = set()
+        
+        r = [set() for _ in range(9)]
+        c = [set() for _ in range(9)]
+        box =[set() for _ in range(9)]
 
         for i in range(9):
             for j in range(9):
-                c = board[i][j]
+               
+                num = board[i][j]
 
-                if c == '.':
+                box1 = (i//3)*3 + (j//3)
+
+                if num == ".":
                     continue
-            
-                if (c,'r',i) in seen or (c,'cl',j) in seen or (c,'b',i // 3 , j // 3) in seen:
+                
+                if num in r[i]:
                     return False
-            
-                seen.add((c,'r',i))
-                seen.add((c,'cl',j))
-                seen.add((c,'b',i//3,j//3))
-        
+                
+                if num in c[j]:
+                    return False
+                
+                if num in box[box1]:
+                    return False
+                
+                r[i].add(num)
+                c[j].add(num)
+                box[box1].add(num)
+
         return True
