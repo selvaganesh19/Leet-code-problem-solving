@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0026-remove-duplicates-from-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0088-merge-sorted-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0001-two-sum](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0169-majority-element) |
