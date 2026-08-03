@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0033-search-in-rotated-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0088-merge-sorted-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0018-4sum](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0042-trapping-rain-water) |
 | [1013-fibonacci-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3447-clear-digits](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/3447-clear-digits) |
 ## Enumeration
@@ -304,4 +308,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0128-longest-consecutive-sequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
