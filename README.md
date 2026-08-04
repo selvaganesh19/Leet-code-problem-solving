@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0506-relative-ranks](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0645-set-mismatch) |
 | [0837-most-common-word](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0837-most-common-word) |
 | [1018-largest-perimeter-triangle](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1018-largest-perimeter-triangle) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0643-maximum-average-subarray-i) |
 ## Stack
 |  |
 | ------- |
