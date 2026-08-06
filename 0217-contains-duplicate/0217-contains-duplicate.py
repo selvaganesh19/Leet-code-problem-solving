@@ -4,15 +4,16 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-
-        f={}
+        
+        seen = set()
 
         for i in nums:
-            f[i] = f.get(i,0)+1
-        
-        # print(f)
-
-        for i, v in f.items():
-            if v >1:
+            if i in seen:
                 return True
-        return False    
+            else:
+                seen.add(i)
+        
+        if seen != 0:
+            return False
+
+    
