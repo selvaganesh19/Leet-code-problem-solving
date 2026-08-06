@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0219-contains-duplicate-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0349-intersection-of-two-arrays) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0003-longest-substring-without-repeating-characters](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0567-permutation-in-string) |
@@ -307,10 +309,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0506-relative-ranks) |
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 ## Backtracking
 |  |
@@ -332,4 +336,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0042-trapping-rain-water) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
