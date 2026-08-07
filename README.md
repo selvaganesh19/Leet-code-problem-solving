@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0628-maximum-product-of-three-numbers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0724-find-pivot-index) |
 | [0837-most-common-word](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0837-most-common-word) |
 | [1018-largest-perimeter-triangle](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1019-squares-of-a-sorted-array) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0724-find-pivot-index) |
 ## Union-Find
 |  |
 | ------- |
