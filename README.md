@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0455-assign-cookies](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0506-relative-ranks) |
+| [0525-contiguous-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0409-longest-palindrome](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0645-set-mismatch) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0724-find-pivot-index) |
 ## Union-Find
