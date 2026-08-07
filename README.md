@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0414-third-maximum-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0560-subarray-sum-equals-k) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0409-longest-palindrome](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0567-permutation-in-string) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0020-valid-parentheses](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3447-clear-digits](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/3447-clear-digits) |
 ## Enumeration
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0496-next-greater-element-i) |
 ## Monotonic Queue
 |  |
 | ------- |
