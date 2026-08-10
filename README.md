@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0128-longest-consecutive-sequence](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0204-count-primes) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0043-multiply-strings](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0258-add-digits) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0020-valid-parentheses](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
