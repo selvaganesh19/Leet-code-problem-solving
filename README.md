@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0643-maximum-average-subarray-i](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0739-daily-temperatures) |
 | [0837-most-common-word](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0837-most-common-word) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1018-largest-perimeter-triangle) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0150-evaluate-reverse-polish-notation](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3447-clear-digits](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/3447-clear-digits) |
 ## Enumeration
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0042-trapping-rain-water](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0739-daily-temperatures) |
 ## Monotonic Queue
 |  |
 | ------- |
