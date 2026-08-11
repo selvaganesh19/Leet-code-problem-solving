@@ -1,20 +1,12 @@
-class Solution(object):
-    def removeDuplicates(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
+class Solution:
+    def removeDuplicates(self, s: str) -> str:
+        stack = []
 
-        a = list(s)
-
-        i=0
-
-        for j in range(len(s)):
-            if i > 0 and a[i-1] == a[j]:
-                i-=1
+        for i in s:
+            if stack and stack[-1] == i:
+                stack.pop()
+            
             else:
-                a[i]=a[j]
-                i+=1
+                stack.append(i)
         
-        return "".join(a[:i])
-
+        return "".join(stack)
