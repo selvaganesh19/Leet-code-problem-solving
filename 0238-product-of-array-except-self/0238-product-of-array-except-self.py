@@ -6,17 +6,18 @@ class Solution(object):
         """
         
         l = 1
-
-        res = [1]*len(nums)
+        
+        re = [1]*len(nums)
 
         for i in range(len(nums)):
-            res[i] = l
+            re[i] = l
             l*=nums[i]
 
         r = 1
 
         for i in range(len(nums)-1,-1,-1):
-            res[i]*=r
+            re[i]*=r
             r*=nums[i]
         
-        return res
+
+        return re
