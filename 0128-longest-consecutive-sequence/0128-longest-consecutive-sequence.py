@@ -8,15 +8,14 @@ class Solution(object):
 
         c=0
 
-        for nums in s:
-            if nums -1 not in s:
-                st = nums
-                 
-                while st + 1 in s:
-                    st+=1
-            
-                c = max(c,st-nums+1)
+        for i in s:
+            if i-1 not in s:
+                st = i
 
+                while st+1 in s:
+                    st+=1
+
+                c = max(c, st-i+1)
         
-        return c 
+        return c
          
