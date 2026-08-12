@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1848-sum-of-unique-elements) |
 | [2881-split-strings-by-separator](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2881-split-strings-by-separator) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0974-subarray-sums-divisible-by-k](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1319-unique-number-of-occurrences) |
 | [1848-sum-of-unique-elements](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1848-sum-of-unique-elements) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0438-find-all-anagrams-in-a-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0643-maximum-average-subarray-i) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Stack
 |  |
 | ------- |
