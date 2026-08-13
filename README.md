@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0837-most-common-word](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0837-most-common-word) |
 | [0875-koko-eating-bananas](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1319-unique-number-of-occurrences) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0374-guess-number-higher-or-lower](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Counting
 |  |
 | ------- |
