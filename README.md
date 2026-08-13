@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0628-maximum-product-of-three-numbers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0739-daily-temperatures) |
 | [0837-most-common-word](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0837-most-common-word) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0350-intersection-of-two-arrays-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0704-binary-search) |
 ## Counting
 |  |
 | ------- |
