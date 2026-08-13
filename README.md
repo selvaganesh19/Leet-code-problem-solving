@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0724-find-pivot-index](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0739-daily-temperatures) |
 | [0837-most-common-word](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0837-most-common-word) |
+| [0875-koko-eating-bananas](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1019-squares-of-a-sorted-array) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0367-valid-perfect-square](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0875-koko-eating-bananas) |
 ## Counting
 |  |
 | ------- |
