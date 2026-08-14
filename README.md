@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2235-capitalize-the-title](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2235-capitalize-the-title) |
 | [2881-split-strings-by-separator](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2881-split-strings-by-separator) |
 | [2887-sort-vowels-in-a-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2887-sort-vowels-in-a-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3447-clear-digits](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/3447-clear-digits) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1319-unique-number-of-occurrences](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1319-unique-number-of-occurrences) |
 | [1848-sum-of-unique-elements](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1848-sum-of-unique-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0567-permutation-in-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
