@@ -13,8 +13,8 @@ class Solution(object):
         dummy = head
 
         while dummy and dummy.next:
-            if dummy.val == dummy.next.val:
+            if dummy.next.val == dummy.val:
                 dummy.next = dummy.next.next
                 continue
             dummy = dummy.next
-        return head 
+        return head
