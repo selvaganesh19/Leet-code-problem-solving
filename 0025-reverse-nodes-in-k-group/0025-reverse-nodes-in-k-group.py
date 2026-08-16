@@ -11,22 +11,29 @@ class Solution(object):
         :rtype: Optional[ListNode]
         """
 
+        dummy = jump = ListNode(0)
 
-        curr = head
+        dummy.next = l = r = head
 
-        for _ in range(k):
-            if not curr: return head
-            curr =  curr.next
-        
-        pre = None
-        curr = head
+        while True:
+            c = 0
+            while r and c < k:
+                r = r.next
+                c+=1
+            
+            if c == k:
+                pre = r
+                curr = l
 
-        for _ in range(k):
-            nxt = curr.next
-            curr.next = pre
-            pre = curr
-            curr = nxt
-        
+                for _ in range(k):
+                    nxt = curr.next
+                    curr.next = pre
+                    pre = curr
+                    curr = nxt
+                
+                jump.next = pre
+                jump = l
+                l = r
+            else:
+                return dummy.next
 
-        head.next = self.reverseKGroup(curr, k)
-        return pre
