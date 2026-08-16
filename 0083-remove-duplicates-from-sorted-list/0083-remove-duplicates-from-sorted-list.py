@@ -13,7 +13,7 @@ class Solution(object):
         dummy = head
 
         while dummy and dummy.next:
-            if dummy.next.val == dummy.val:
+            if dummy.val == dummy.next.val:
                 dummy.next = dummy.next.next
                 continue
             dummy = dummy.next
