@@ -4,14 +4,19 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        count=0
-        res = 0
+        l=0
 
-        for i in nums:
-            if i ==1:
-                count+=1
-                res = max(count,res)
+        m = defaultdict(int)
+        res=0
+
+        for r in range(len(nums)):
+            m[nums[r]]+=1
+
+            c=0
+            if nums[r] == 1:
+                c+=1
+                res = max(res,r-l+1)
             else:
-                count = 0
+                l = r+1
         
         return res
