@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0226-invert-binary-tree) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0226-invert-binary-tree) |
@@ -456,11 +458,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
