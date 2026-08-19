@@ -10,12 +10,16 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: Optional[TreeNode]
         """
-        
-        if root:
+        res, st = [], [root] if root else []
 
-            [root.left, root.right] = [root.right, root.left]
+        while st:
+            node = st.pop()
+            node.left, node.right = node.right, node.left
+            
+            if node.left:
+                st.append(node.left)
 
-            self.invertTree(root.right)
-            self.invertTree(root.left)
+            if node.right:
+                st.append(node.right)
         
         return root
