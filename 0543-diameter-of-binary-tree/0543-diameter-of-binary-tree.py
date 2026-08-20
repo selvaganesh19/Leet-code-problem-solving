@@ -10,12 +10,25 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
+
+        if not root: return 0
+
+        st , height,ans , res = [(root,False)] , defaultdict(int), 0,0
+
+        while st:
+            node , seen = st.pop()
+
+            if not node: continue
+
+            if not seen:
+                st.append((node,True))
+                st.append((node.left,False))
+                st.append((node.right,False))
+            else:
+                l , r = height[node.left],height[node.right]
+                res = max(res,l+r)
+                height[node] = 1 + max(l, r)
+            
         
-        res=[0]
-        def dfs(n):
-            if not n: return 0
-            left,right=dfs(n.left),dfs(n.right)
-            res[0]=max(res[0],left+right)
-            return 1+max(left,right)
-        dfs(root)
-        return res[0]
+        return res
+
