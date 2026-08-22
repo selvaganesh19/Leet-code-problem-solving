@@ -14,12 +14,10 @@ class Solution(object):
         :rtype: TreeNode
         """
         
-        if not root or p is root or q is root : return root
-
-        left = self.lowestCommonAncestor(root.left, p, q)
-        right = self.lowestCommonAncestor(root.right, p, q)
-
-        if left and right:
-            return root
-        
-        return left or right
+        while root:
+            if p.val < root.val > q.val:
+                root = root.left
+            elif p.val > root.val < q.val:
+                root = root.right
+            else:
+                return root
