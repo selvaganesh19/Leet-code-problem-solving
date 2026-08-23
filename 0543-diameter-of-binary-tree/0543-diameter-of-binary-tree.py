@@ -11,24 +11,18 @@ class Solution(object):
         :rtype: int
         """
 
-        if not root: return 0
+        def depth(root,res):
 
-        st , height,ans , res = [(root,False)] , defaultdict(int), 0,0
+            if not root: return 0
 
-        while st:
-            node , seen = st.pop()
+            left = depth(root.left,res)
+            right = depth(root.right,res)
 
-            if not node: continue
+            res[0] = max(res[0],left+right)
 
-            if not seen:
-                st.append((node,True))
-                st.append((node.left,False))
-                st.append((node.right,False))
-            else:
-                l , r = height[node.left],height[node.right]
-                res = max(res,l+r)
-                height[node] = 1 + max(l, r)
-            
+            return max(left,right)+1
         
-        return res
+        res = [0]
+        depth(root,res)
 
+        return res[0]
