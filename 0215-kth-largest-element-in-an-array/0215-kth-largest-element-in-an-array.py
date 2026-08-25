@@ -9,9 +9,6 @@ class Solution:
 
             pivot = nums[random.randint(left, right)]
 
-            # 3 sections:
-            # < pivot | == pivot | > pivot
-
             low = left
             mid = left
             high = right
@@ -29,10 +26,6 @@ class Solution:
 
                 else:
                     mid += 1
-
-            # [left ... low-1]    < pivot
-            # [low  ... high]     == pivot
-            # [high+1 ... right]  > pivot
 
             if target < low:
                 right = low - 1
