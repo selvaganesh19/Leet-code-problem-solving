@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2881-split-strings-by-separator](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2881-split-strings-by-separator) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1848-sum-of-unique-elements](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1848-sum-of-unique-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
