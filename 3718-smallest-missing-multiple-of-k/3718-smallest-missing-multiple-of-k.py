@@ -7,9 +7,9 @@ class Solution(object):
         """
         s = set(nums)
 
-        mul = k
+        m = k
 
-        while mul in s:
-            mul+=k
+        while m in s:
+            m+=k
         
-        return mul
+        return m
