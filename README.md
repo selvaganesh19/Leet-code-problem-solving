@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0347-top-k-frequent-elements) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0141-linked-list-cycle) |
@@ -577,4 +580,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0347-top-k-frequent-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
