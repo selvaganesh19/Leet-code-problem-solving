@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0525-contiguous-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0645-set-mismatch) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0414-third-maximum-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0645-set-mismatch) |
 | [1018-largest-perimeter-triangle](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1018-largest-perimeter-triangle) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0525-contiguous-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0645-set-mismatch) |
 | [0837-most-common-word](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0837-most-common-word) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0409-longest-palindrome](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0680-valid-palindrome-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1018-largest-perimeter-triangle) |
 ## Matrix
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0169-majority-element](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0621-task-scheduler) |
 | [0837-most-common-word](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0837-most-common-word) |
 | [1848-sum-of-unique-elements](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1848-sum-of-unique-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -392,6 +397,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0239-sliding-window-maximum](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1046-last-stone-weight) |
 ## Queue
