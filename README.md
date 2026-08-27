@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0033-search-in-rotated-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0046-permutations) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0078-subsets) |
 ## Interactive
