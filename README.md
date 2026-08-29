@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0042-trapping-rain-water](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0079-word-search) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0022-generate-parentheses](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0079-word-search) |
 ## Interactive
@@ -606,4 +608,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0023-merge-k-sorted-lists) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
