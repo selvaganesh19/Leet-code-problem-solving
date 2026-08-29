@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0049-group-anagrams](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0049-group-anagrams](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0242-valid-anagram) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0036-valid-sudoku](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0079-word-search) |
 ## Binary Search
 |  |
 | ------- |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0039-combination-sum](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0079-word-search) |
 ## Interactive
 |  |
 | ------- |
@@ -512,6 +516,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
