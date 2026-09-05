@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0125-valid-palindrome](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0344-reverse-string) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0014-longest-common-prefix](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0155-min-stack](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0303-range-sum-query-immutable) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0144-binary-tree-preorder-traversal](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0199-binary-tree-right-side-view) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
