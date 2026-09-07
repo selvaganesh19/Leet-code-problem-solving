@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0628-maximum-product-of-three-numbers](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0645-set-mismatch) |
+| [0695-max-area-of-island](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0733-flood-fill) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0079-word-search](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0212-word-search-ii) |
+| [0695-max-area-of-island](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0733-flood-fill) |
 ## Binary Search
 |  |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0695-max-area-of-island) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -583,6 +587,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0200-number-of-islands](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0695-max-area-of-island](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0733-flood-fill) |
 ## DP on Trees
 |  |
