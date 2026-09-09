@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1013-fibonacci-number](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1018-largest-perimeter-triangle) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/3870-count-commas-in-range) |
 ## Simulation
 |  |
 | ------- |
