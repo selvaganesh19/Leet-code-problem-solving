@@ -538,6 +538,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0543-diameter-of-binary-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0543-diameter-of-binary-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0733-flood-fill) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0543-diameter-of-binary-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
