@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1019-squares-of-a-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1046-last-stone-weight) |
 | [1319-unique-number-of-occurrences](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1319-unique-number-of-occurrences) |
+| [1480-running-sum-of-1d-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1480-running-sum-of-1d-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1848-sum-of-unique-elements) |
 | [2881-split-strings-by-separator](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2881-split-strings-by-separator) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0560-subarray-sum-equals-k](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1480-running-sum-of-1d-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1480-running-sum-of-1d-array) |
 ## Union-Find
 |  |
 | ------- |
