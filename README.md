@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1480-running-sum-of-1d-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1480-running-sum-of-1d-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1848-sum-of-unique-elements) |
+| [1929-concatenation-of-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1929-concatenation-of-array) |
 | [2881-split-strings-by-separator](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2881-split-strings-by-separator) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0258-add-digits](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0415-add-strings) |
+| [1929-concatenation-of-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1929-concatenation-of-array) |
 | [3447-clear-digits](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/3447-clear-digits) |
 ## Number Theory
 |  |
