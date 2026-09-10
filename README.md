@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0837-most-common-word](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0837-most-common-word) |
 | [0875-koko-eating-bananas](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0994-rotting-oranges](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/1019-squares-of-a-sorted-array) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0212-word-search-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0212-word-search-ii) |
 | [0695-max-area-of-island](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0994-rotting-oranges) |
 ## DP on Trees
 |  |
 | ------- |
