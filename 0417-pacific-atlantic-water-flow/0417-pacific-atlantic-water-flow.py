@@ -1,21 +1,21 @@
 class Solution:
     def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
-        row,col = len(heights),len(heights[0])
+        row,col=len(heights),len(heights[0])
 
         res=[]
-        pac,atl = set(),set()
+
+        pac,atl=set(),set()
 
         def dfs(r,c,visit,pre):
-            if (r<0 or c<0 or r==row or c==col or heights[r][c] < pre or (r,c) in visit):
+            if (r<0 or c<0 or r>=row or c>=col or heights[r][c] < pre or (r,c) in visit):
                 return
-            
 
             visit.add((r,c))
 
             dfs(r-1,c,visit,heights[r][c])
             dfs(r+1,c,visit,heights[r][c])
             dfs(r,c-1,visit,heights[r][c])
-            dfs(r,c+1,visit,heights[r][c])
+            dfs(r,c+1,visit,heights[r][c]) 
 
 
         for c in range(col):
@@ -26,6 +26,7 @@ class Solution:
             dfs(r,0,pac,heights[r][0])
             dfs(r,col-1,atl,heights[r][col-1])
         
+
         for r in range(row):
             for c in range(col):
                 if (r,c) in pac and (r,c) in atl:
