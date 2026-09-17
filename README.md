@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0695-max-area-of-island) |
 ## Monotonic Stack
 |  |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0733-flood-fill) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0226-invert-binary-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [0547-number-of-provinces](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0994-rotting-oranges) |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0133-clone-graph](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/selvaganesh19/Leet-code-problem-solving/tree/master/0547-number-of-provinces) |
 ## Bidirectional Search
 |  |
 | ------- |
